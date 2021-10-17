@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaibhav.HTML</title>
+</head>
+<body>
+    <div>
+    <header>
+        HTML Elements
+    </header>
+    <P>The HTML element is the root element and it defines the whole HTML document. It has a start tag HTML and an end tag HTML. Then, inside the HTML element there is the content of the Element. </P>
+    <a href="https://www.w3schools.com/html/html_elements.asp" target="_blank"><img src="HTML ELements.jpg" alt=racecar width=750 height=400 ></img></a>
+    </div>
+    <div>
+    <header>
+        HTML Attributes
+    </header>
+    <P>HTML ATtributes are functions that are put in elements to enhance and customise them. They give a lot of diffrent features to the coder and can really change how a website looks.</P>
+    <a href="https://www.codewithkartik.com" target="_blank"><img src="download.png" alt=racecar width=750 height=400 ></img></a>
+    </div>
+    <div>
+    <header>
+        DIfference Between Div and Span
+    </header>
+    <pre>Div and span are two Elements with two very different functions.
+       <u>Div</u>:- It is a Block-level Element, which means that it always starts in a new line, it always takes up the full width available (stretches out to the left and right as far as it can) and it has a top and a bottom margin, whereas an inline element does not. The div element is often used as a container for other HTML elements.
+       <u>Span</u>:- It is a Inline Element, which means that it does not start on a new line and it only takes up as much width as necessary. The span element is an inline container used to mark up a part of a text, or a part of a document.</pre>
+    <a href="https://www.geeksforgeeks.org/difference-between-div-and-span-tag-in-html/" target="_blank"><img src="download.jpg" alt=racecar width=750 height=400 ></img></a>
+    </div>
+</body>
+</html>    
